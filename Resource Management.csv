@@ -1,0 +1,280 @@
+Domain Name,Sub Domain Name,Table/View Name,Column Name,Data Type,,Domain Name,Sub Domain Name,Table/View Name,Column Name,Data Type
+Vendor Management,Resource Management,OrgData,Id,uniqueidentifier,,Vendor Management,Resource Management,OrgData,Id,uniqueidentifier
+Vendor Management,Resource Management,OrgData,BuName,nvarchar,,Vendor Management,Resource Management,OrgData,BuName,nvarchar
+Vendor Management,Resource Management,OrgData,BuId,int,,Vendor Management,Resource Management,OrgData,BuId,int
+Vendor Management,Resource Management,OrgData,BuHeadEno,int,,Vendor Management,Resource Management,OrgData,BuHeadEno,int
+Vendor Management,Resource Management,OrgData,BuHeadName,nvarchar,,Vendor Management,Resource Management,OrgData,BuHeadName,nvarchar
+Vendor Management,Resource Management,OrgData,BuHeadEmail,nvarchar,,Vendor Management,Resource Management,OrgData,BuHeadEmail,nvarchar
+Vendor Management,Resource Management,OrgData,SectionName,nvarchar,,Vendor Management,Resource Management,OrgData,SectionName,nvarchar
+Vendor Management,Resource Management,OrgData,SectionId,int,,Vendor Management,Resource Management,OrgData,SectionId,int
+Vendor Management,Resource Management,OrgData,SectionHeadEno,int,,Vendor Management,Resource Management,OrgData,SectionHeadEno,int
+Vendor Management,Resource Management,OrgData,SectionHeadName,nvarchar,,Vendor Management,Resource Management,OrgData,SectionHeadName,nvarchar
+Vendor Management,Resource Management,OrgData,SectionHeadEmail,nvarchar,,Vendor Management,Resource Management,OrgData,SectionHeadEmail,nvarchar
+Vendor Management,Resource Management,OrgData,DepartmentName,nvarchar,,Vendor Management,Resource Management,OrgData,DepartmentName,nvarchar
+Vendor Management,Resource Management,OrgData,DepartmentId,bigint,,Vendor Management,Resource Management,OrgData,DepartmentId,bigint
+Vendor Management,Resource Management,OrgData,DepartmentHeadEno,int,,Vendor Management,Resource Management,OrgData,DepartmentHeadEno,int
+Vendor Management,Resource Management,OrgData,DepartmentHeadName,nvarchar,,Vendor Management,Resource Management,OrgData,DepartmentHeadName,nvarchar
+Vendor Management,Resource Management,OrgData,DepartmentHeadEmail,nvarchar,,Vendor Management,Resource Management,OrgData,DepartmentHeadEmail,nvarchar
+Vendor Management,Resource Management,OrgData,GroupName,nvarchar,,Vendor Management,Resource Management,OrgData,GroupName,nvarchar
+Vendor Management,Resource Management,OrgData,GroupId,int,,Vendor Management,Resource Management,OrgData,GroupId,int
+Vendor Management,Resource Management,OrgData,GroupMgrEno,int,,Vendor Management,Resource Management,OrgData,GroupMgrEno,int
+Vendor Management,Resource Management,OrgData,GroupMgrName,nvarchar,,Vendor Management,Resource Management,OrgData,GroupMgrName,nvarchar
+Vendor Management,Resource Management,OrgData,GroupMgrEmail,nvarchar,,Vendor Management,Resource Management,OrgData,GroupMgrEmail,nvarchar
+Vendor Management,Resource Management,OrgData,IsActive,bit,,Vendor Management,Resource Management,OrgData,IsActive,bit
+Vendor Management,Resource Management,OrgData,IsDeleted,bit,,Vendor Management,Resource Management,OrgData,IsDeleted,bit
+Vendor Management,Resource Management,OrgData,CreatedOn,datetimeoffset,,Vendor Management,Resource Management,OrgData,CreatedOn,datetimeoffset
+Vendor Management,Resource Management,OrgData,CreatedBy,nvarchar,,Vendor Management,Resource Management,OrgData,CreatedBy,nvarchar
+Vendor Management,Resource Management,OrgData,ModifiedOn,datetimeoffset,,Vendor Management,Resource Management,OrgData,ModifiedOn,datetimeoffset
+Vendor Management,Resource Management,OrgData,ModifiedBy,nvarchar,,Vendor Management,Resource Management,OrgData,ModifiedBy,nvarchar
+Vendor Management,Resource Management,OrgData,CompanyId,uniqueidentifier,,Vendor Management,Resource Management,OrgData,CompanyId,uniqueidentifier
+Vendor Management,Resource Management,OrgData,CompanyCode,nvarchar,,Vendor Management,Resource Management,OrgData,CompanyCode,nvarchar
+Vendor Management,Resource Management,OrgData,Imported,bit,,Vendor Management,Resource Management,OrgData,Imported,bit
+Vendor Management,Resource Management,ProjectXCompetency,Id,uniqueidentifier,,Vendor Management,Resource Management,ProjectXCompetency,Id,uniqueidentifier
+Vendor Management,Resource Management,ProjectXCompetency,PlantId,uniqueidentifier,,Vendor Management,Resource Management,ProjectXCompetency,PlantId,uniqueidentifier
+Vendor Management,Resource Management,ProjectXCompetency,EmployeeNumber,bigint,,Vendor Management,Resource Management,ProjectXCompetency,EmployeeNumber,bigint
+Vendor Management,Resource Management,ProjectXCompetency,SOWJDId,uniqueidentifier,,Vendor Management,Resource Management,ProjectXCompetency,SOWJDId,uniqueidentifier
+Vendor Management,Resource Management,ProjectXCompetency,SkillsetId,uniqueidentifier,,Vendor Management,Resource Management,ProjectXCompetency,SkillsetId,uniqueidentifier
+Vendor Management,Resource Management,ProjectXCompetency,GradeId,uniqueidentifier,,Vendor Management,Resource Management,ProjectXCompetency,GradeId,uniqueidentifier
+Vendor Management,Resource Management,ProjectXCompetency,LocationModeId,int,,Vendor Management,Resource Management,ProjectXCompetency,LocationModeId,int
+Vendor Management,Resource Management,ProjectXCompetency,CapacityAllocation,decimal,,Vendor Management,Resource Management,ProjectXCompetency,CapacityAllocation,decimal
+Vendor Management,Resource Management,ProjectXCompetency,Billable,bit,,Vendor Management,Resource Management,ProjectXCompetency,Billable,bit
+Vendor Management,Resource Management,ProjectXCompetency,BillingStartDate,datetime,,Vendor Management,Resource Management,ProjectXCompetency,BillingStartDate,datetime
+Vendor Management,Resource Management,ProjectXCompetency,ValidityStart,datetime,,Vendor Management,Resource Management,ProjectXCompetency,ValidityStart,datetime
+Vendor Management,Resource Management,ProjectXCompetency,ValidityEnd,datetime,,Vendor Management,Resource Management,ProjectXCompetency,ValidityEnd,datetime
+Vendor Management,Resource Management,ProjectXCompetency,IsDeleted,bit,,Vendor Management,Resource Management,ProjectXCompetency,IsDeleted,bit
+Vendor Management,Resource Management,ProjectXCompetency,CreatedOn,datetimeoffset,,Vendor Management,Resource Management,ProjectXCompetency,CreatedOn,datetimeoffset
+Vendor Management,Resource Management,ProjectXCompetency,CreatedBy,nvarchar,,Vendor Management,Resource Management,ProjectXCompetency,CreatedBy,nvarchar
+Vendor Management,Resource Management,ProjectXCompetency,ModifiedOn,datetimeoffset,,Vendor Management,Resource Management,ProjectXCompetency,ModifiedOn,datetimeoffset
+Vendor Management,Resource Management,ProjectXCompetency,ModifiedBy,nvarchar,,Vendor Management,Resource Management,ProjectXCompetency,ModifiedBy,nvarchar
+Vendor Management,Resource Management,ProjectXCompetency,Version,timestamp,,Vendor Management,Resource Management,ProjectXCompetency,Version,timestamp
+Vendor Management,Resource Management,ProjectXCompetency,GbId,uniqueidentifier,,Vendor Management,Resource Management,ProjectXCompetency,GbId,uniqueidentifier
+Vendor Management,Resource Management,ProjectXCompetency,SowjdSignOffId,uniqueidentifier,,Vendor Management,Resource Management,ProjectXCompetency,SowjdSignOffId,uniqueidentifier
+Vendor Management,Resource Management,ProjectXCompetency,ResourcePlanId,uniqueidentifier,,Vendor Management,Resource Management,ProjectXCompetency,ResourcePlanId,uniqueidentifier
+Vendor Management,Resource Management,ProjectXCompetency,DeboardingRequestID,nvarchar,,Vendor Management,Resource Management,ProjectXCompetency,DeboardingRequestID,nvarchar
+Vendor Management,Resource Management,ResourceDeboardingRequest,Id,uniqueidentifier,,Vendor Management,Resource Management,ResourceDeboardingRequest,Id,uniqueidentifier
+Vendor Management,Resource Management,ResourceDeboardingRequest,EmployeeNumber,bigint,,Vendor Management,Resource Management,ResourceDeboardingRequest,EmployeeNumber,bigint
+Vendor Management,Resource Management,ResourceDeboardingRequest,DeboardingRequestID,nvarchar,,Vendor Management,Resource Management,ResourceDeboardingRequest,DeboardingRequestID,nvarchar
+Vendor Management,Resource Management,ResourceDeboardingRequest,ExitReasonId,int,,Vendor Management,Resource Management,ResourceDeboardingRequest,ExitReasonId,int
+Vendor Management,Resource Management,ResourceDeboardingRequest,LastWorkingDay,date,,Vendor Management,Resource Management,ResourceDeboardingRequest,LastWorkingDay,date
+Vendor Management,Resource Management,ResourceDeboardingRequest,IsReplaceRequest,bit,,Vendor Management,Resource Management,ResourceDeboardingRequest,IsReplaceRequest,bit
+Vendor Management,Resource Management,ResourceDeboardingRequest,DojReplaceResource,date,,Vendor Management,Resource Management,ResourceDeboardingRequest,DojReplaceResource,date
+Vendor Management,Resource Management,ResourceDeboardingRequest,StatusID,int,,Vendor Management,Resource Management,ResourceDeboardingRequest,StatusID,int
+Vendor Management,Resource Management,ResourceDeboardingRequest,CreatedOn,datetimeoffset,,Vendor Management,Resource Management,ResourceDeboardingRequest,CreatedOn,datetimeoffset
+Vendor Management,Resource Management,ResourceDeboardingRequest,CreatedBy,nvarchar,,Vendor Management,Resource Management,ResourceDeboardingRequest,CreatedBy,nvarchar
+Vendor Management,Resource Management,ResourceDeboardingRequest,ModifiedOn,datetimeoffset,,Vendor Management,Resource Management,ResourceDeboardingRequest,ModifiedOn,datetimeoffset
+Vendor Management,Resource Management,ResourceDeboardingRequest,ModifiedBy,nvarchar,,Vendor Management,Resource Management,ResourceDeboardingRequest,ModifiedBy,nvarchar
+Vendor Management,Resource Management,ResourceDeboardingRequest,IsDeleted,bit,,Vendor Management,Resource Management,ResourceDeboardingRequest,IsDeleted,bit
+Vendor Management,Resource Management,ResourceDeboardingRequest,VendorSAPID,int,,Vendor Management,Resource Management,ResourceDeboardingRequest,VendorSAPID,int
+Vendor Management,Resource Management,ResourceDeboardingRequest,SowjdOwnerNtid,nvarchar,,Vendor Management,Resource Management,ResourceDeboardingRequest,SowjdOwnerNtid,nvarchar
+Vendor Management,Resource Management,ResourceDeboardingRequest,Companycode,varchar,,Vendor Management,Resource Management,ResourceDeboardingRequest,Companycode,varchar
+Vendor Management,Resource Management,ResourceDeboardingRequest,SectionSpocNtid,nvarchar,,Vendor Management,Resource Management,ResourceDeboardingRequest,SectionSpocNtid,nvarchar
+Vendor Management,Resource Management,ResourceDeboardingRequest,IsFirstLevelApproved,bit,,Vendor Management,Resource Management,ResourceDeboardingRequest,IsFirstLevelApproved,bit
+Vendor Management,Resource Management,ResourceDeboardingRequest,GroupId,bigint,,Vendor Management,Resource Management,ResourceDeboardingRequest,GroupId,bigint
+Vendor Management,Resource Management,ResourceDeboardingRequest,BuSpocEmployeeNumber,bigint,,Vendor Management,Resource Management,ResourceDeboardingRequest,BuSpocEmployeeNumber,bigint
+Vendor Management,Resource Management,ResourceDeboardingRequest,IsDeviceCollected,bit,,Vendor Management,Resource Management,ResourceDeboardingRequest,IsDeviceCollected,bit
+Vendor Management,Resource Management,ResourceDeboardingRequest,IsAccessoriesCollected,bit,,Vendor Management,Resource Management,ResourceDeboardingRequest,IsAccessoriesCollected,bit
+Vendor Management,Resource Management,ResourceDeboardingRequest,IsEmployeeCardCollected,bit,,Vendor Management,Resource Management,ResourceDeboardingRequest,IsEmployeeCardCollected,bit
+Vendor Management,Resource Management,ResourceDeboardingRequest,IsNtidDeactivated,bit,,Vendor Management,Resource Management,ResourceDeboardingRequest,IsNtidDeactivated,bit
+Vendor Management,Resource Management,ResourceDeboardingRequest,PlantCode,nvarchar,,Vendor Management,Resource Management,ResourceDeboardingRequest,PlantCode,nvarchar
+Vendor Management,Resource Management,ResourceDeboardingRequest,VendorId,uniqueidentifier,,Vendor Management,Resource Management,ResourceDeboardingRequest,VendorId,uniqueidentifier
+Vendor Management,Resource Management,ResourceDeboardingRequest,TechnicalProposalId,uniqueidentifier,,Vendor Management,Resource Management,ResourceDeboardingRequest,TechnicalProposalId,uniqueidentifier
+Vendor Management,Resource Management,ResourceDeboardingRequest,SowJdId,uniqueidentifier,,Vendor Management,Resource Management,ResourceDeboardingRequest,SowJdId,uniqueidentifier
+Vendor Management,Resource Management,ResourceDeboardingRequest,IsGCNaccessUpdated,bit,,Vendor Management,Resource Management,ResourceDeboardingRequest,IsGCNaccessUpdated,bit
+Vendor Management,Resource Management,ResourceDeboardingRequest,IsSAPidMUpdated,bit,,Vendor Management,Resource Management,ResourceDeboardingRequest,IsSAPidMUpdated,bit
+Vendor Management,Resource Management,ResourceDeboardingRequest,IsTransportUpdated,bit,,Vendor Management,Resource Management,ResourceDeboardingRequest,IsTransportUpdated,bit
+Vendor Management,Resource Management,ResourceDeboardingRequest,ResourcePlanId,uniqueidentifier,,Vendor Management,Resource Management,ResourceDeboardingRequest,ResourcePlanId,uniqueidentifier
+Vendor Management,Resource Management,ResourceDeboardingRequest,IsAutoWithDrawn,bit,,Vendor Management,Resource Management,ResourceDeboardingRequest,IsAutoWithDrawn,bit
+Vendor Management,Resource Management,ResourceDeboardingRequest,SkillsetId,uniqueidentifier,,Vendor Management,Resource Management,ResourceDeboardingRequest,SkillsetId,uniqueidentifier
+Vendor Management,Resource Management,ResourceDeboardingRequest,GradeId,uniqueidentifier,,Vendor Management,Resource Management,ResourceDeboardingRequest,GradeId,uniqueidentifier
+Vendor Management,Resource Management,ResourceDeboardingRequest,PersonelSubAreaId,uniqueidentifier,,Vendor Management,Resource Management,ResourceDeboardingRequest,PersonelSubAreaId,uniqueidentifier
+Vendor Management,Resource Management,ResourceDeboardingRequest,PersonelAreaId,uniqueidentifier,,Vendor Management,Resource Management,ResourceDeboardingRequest,PersonelAreaId,uniqueidentifier
+Vendor Management,Resource Management,ResourceHeaderMaster,Id,uniqueidentifier,,Vendor Management,Resource Management,ResourceHeaderMaster,Id,uniqueidentifier
+Vendor Management,Resource Management,ResourceHeaderMaster,EmployeeNumber,bigint,,Vendor Management,Resource Management,ResourceHeaderMaster,EmployeeNumber,bigint
+Vendor Management,Resource Management,ResourceHeaderMaster,Title,nvarchar,,Vendor Management,Resource Management,ResourceHeaderMaster,Title,nvarchar
+Vendor Management,Resource Management,ResourceHeaderMaster,FirstName,nvarchar,,Vendor Management,Resource Management,ResourceHeaderMaster,FirstName,nvarchar
+Vendor Management,Resource Management,ResourceHeaderMaster,MiddleName,nvarchar,,Vendor Management,Resource Management,ResourceHeaderMaster,MiddleName,nvarchar
+Vendor Management,Resource Management,ResourceHeaderMaster,LastName,nvarchar,,Vendor Management,Resource Management,ResourceHeaderMaster,LastName,nvarchar
+Vendor Management,Resource Management,ResourceHeaderMaster,FullName,nvarchar,,Vendor Management,Resource Management,ResourceHeaderMaster,FullName,nvarchar
+Vendor Management,Resource Management,ResourceHeaderMaster,Ntid,varchar,,Vendor Management,Resource Management,ResourceHeaderMaster,Ntid,varchar
+Vendor Management,Resource Management,ResourceHeaderMaster,BoschEmailID,nvarchar,,Vendor Management,Resource Management,ResourceHeaderMaster,BoschEmailID,nvarchar
+Vendor Management,Resource Management,ResourceHeaderMaster,DateofBirth,date,,Vendor Management,Resource Management,ResourceHeaderMaster,DateofBirth,date
+Vendor Management,Resource Management,ResourceHeaderMaster,Gender,nvarchar,,Vendor Management,Resource Management,ResourceHeaderMaster,Gender,nvarchar
+Vendor Management,Resource Management,ResourceHeaderMaster,Nationality,nvarchar,,Vendor Management,Resource Management,ResourceHeaderMaster,Nationality,nvarchar
+Vendor Management,Resource Management,ResourceHeaderMaster,OfficialEmailId,nvarchar,,Vendor Management,Resource Management,ResourceHeaderMaster,OfficialEmailId,nvarchar
+Vendor Management,Resource Management,ResourceHeaderMaster,PersonalEmailId,nvarchar,,Vendor Management,Resource Management,ResourceHeaderMaster,PersonalEmailId,nvarchar
+Vendor Management,Resource Management,ResourceHeaderMaster,PrimaryContactCode,char,,Vendor Management,Resource Management,ResourceHeaderMaster,PrimaryContactCode,char
+Vendor Management,Resource Management,ResourceHeaderMaster,PrimaryContactNumber,varchar,,Vendor Management,Resource Management,ResourceHeaderMaster,PrimaryContactNumber,varchar
+Vendor Management,Resource Management,ResourceHeaderMaster,AlternateContactCode,char,,Vendor Management,Resource Management,ResourceHeaderMaster,AlternateContactCode,char
+Vendor Management,Resource Management,ResourceHeaderMaster,AlternateContactNumber,varchar,,Vendor Management,Resource Management,ResourceHeaderMaster,AlternateContactNumber,varchar
+Vendor Management,Resource Management,ResourceHeaderMaster,EmergencyContactName,nvarchar,,Vendor Management,Resource Management,ResourceHeaderMaster,EmergencyContactName,nvarchar
+Vendor Management,Resource Management,ResourceHeaderMaster,EmergencyContactCode,char,,Vendor Management,Resource Management,ResourceHeaderMaster,EmergencyContactCode,char
+Vendor Management,Resource Management,ResourceHeaderMaster,EmergencyNumber,varchar,,Vendor Management,Resource Management,ResourceHeaderMaster,EmergencyNumber,varchar
+Vendor Management,Resource Management,ResourceHeaderMaster,IdentityType,varchar,,Vendor Management,Resource Management,ResourceHeaderMaster,IdentityType,varchar
+Vendor Management,Resource Management,ResourceHeaderMaster,IdNumber,varchar,,Vendor Management,Resource Management,ResourceHeaderMaster,IdNumber,varchar
+Vendor Management,Resource Management,ResourceHeaderMaster,TotalExperienceYear,nvarchar,,Vendor Management,Resource Management,ResourceHeaderMaster,TotalExperienceYear,nvarchar
+Vendor Management,Resource Management,ResourceHeaderMaster,TotalExperienceMonth,nvarchar,,Vendor Management,Resource Management,ResourceHeaderMaster,TotalExperienceMonth,nvarchar
+Vendor Management,Resource Management,ResourceHeaderMaster,RelevantExperienceYear,nvarchar,,Vendor Management,Resource Management,ResourceHeaderMaster,RelevantExperienceYear,nvarchar
+Vendor Management,Resource Management,ResourceHeaderMaster,RelevantExperienceMonth,nvarchar,,Vendor Management,Resource Management,ResourceHeaderMaster,RelevantExperienceMonth,nvarchar
+Vendor Management,Resource Management,ResourceHeaderMaster,IsPreviouslyWorkedinBGSW,bit,,Vendor Management,Resource Management,ResourceHeaderMaster,IsPreviouslyWorkedinBGSW,bit
+Vendor Management,Resource Management,ResourceHeaderMaster,BoschEmployeeNumber,nvarchar,,Vendor Management,Resource Management,ResourceHeaderMaster,BoschEmployeeNumber,nvarchar
+Vendor Management,Resource Management,ResourceHeaderMaster,LWDatBGSW,date,,Vendor Management,Resource Management,ResourceHeaderMaster,LWDatBGSW,date
+Vendor Management,Resource Management,ResourceHeaderMaster,OnboardingRequestId,varchar,,Vendor Management,Resource Management,ResourceHeaderMaster,OnboardingRequestId,varchar
+Vendor Management,Resource Management,ResourceHeaderMaster,CompanyCode,nvarchar,,Vendor Management,Resource Management,ResourceHeaderMaster,CompanyCode,nvarchar
+Vendor Management,Resource Management,ResourceHeaderMaster,DateOfJoining,datetime2,,Vendor Management,Resource Management,ResourceHeaderMaster,DateOfJoining,datetime2
+Vendor Management,Resource Management,ResourceHeaderMaster,ContractEndDate,datetime2,,Vendor Management,Resource Management,ResourceHeaderMaster,ContractEndDate,datetime2
+Vendor Management,Resource Management,ResourceHeaderMaster,LastWorkingDay,datetime2,,Vendor Management,Resource Management,ResourceHeaderMaster,LastWorkingDay,datetime2
+Vendor Management,Resource Management,ResourceHeaderMaster,Status,int,,Vendor Management,Resource Management,ResourceHeaderMaster,Status,int
+Vendor Management,Resource Management,ResourceHeaderMaster,CreatedOn,datetimeoffset,,Vendor Management,Resource Management,ResourceHeaderMaster,CreatedOn,datetimeoffset
+Vendor Management,Resource Management,ResourceHeaderMaster,CreatedBy,nvarchar,,Vendor Management,Resource Management,ResourceHeaderMaster,CreatedBy,nvarchar
+Vendor Management,Resource Management,ResourceHeaderMaster,IsDeleted,bit,,Vendor Management,Resource Management,ResourceHeaderMaster,IsDeleted,bit
+Vendor Management,Resource Management,ResourceHeaderMaster,IsActive,bit,,Vendor Management,Resource Management,ResourceHeaderMaster,IsActive,bit
+Vendor Management,Resource Management,ResourceHeaderMaster,CompanyId,uniqueidentifier,,Vendor Management,Resource Management,ResourceHeaderMaster,CompanyId,uniqueidentifier
+Vendor Management,Resource Management,ResourceHeaderMaster,ModifiedBy,nvarchar,,Vendor Management,Resource Management,ResourceHeaderMaster,ModifiedBy,nvarchar
+Vendor Management,Resource Management,ResourceHeaderMaster,ModifiedOn,datetimeoffset,,Vendor Management,Resource Management,ResourceHeaderMaster,ModifiedOn,datetimeoffset
+Vendor Management,Resource Management,ResourceHeaderMaster,ExitReasonId,int,,Vendor Management,Resource Management,ResourceHeaderMaster,ExitReasonId,int
+Vendor Management,Resource Management,ResourceHeaderMaster,IsAccessCardReturned,bit,,Vendor Management,Resource Management,ResourceHeaderMaster,IsAccessCardReturned,bit
+Vendor Management,Resource Management,ResourceHeaderMaster,IsAssetReturned,bit,,Vendor Management,Resource Management,ResourceHeaderMaster,IsAssetReturned,bit
+Vendor Management,Resource Management,ResourceHeaderMaster,IsAccessCardIssued,bit,,Vendor Management,Resource Management,ResourceHeaderMaster,IsAccessCardIssued,bit
+Vendor Management,Resource Management,ResourceHeaderMaster,VendorId,int,,Vendor Management,Resource Management,ResourceHeaderMaster,VendorId,int
+Vendor Management,Resource Management,ResourceOrgData,Id,uniqueidentifier,,Vendor Management,Resource Management,ResourceOrgData,Id,uniqueidentifier
+Vendor Management,Resource Management,ResourceOrgData,EmployeeNumber,bigint,,Vendor Management,Resource Management,ResourceOrgData,EmployeeNumber,bigint
+Vendor Management,Resource Management,ResourceOrgData,GroupId,bigint,,Vendor Management,Resource Management,ResourceOrgData,GroupId,bigint
+Vendor Management,Resource Management,ResourceOrgData,BuId,bigint,,Vendor Management,Resource Management,ResourceOrgData,BuId,bigint
+Vendor Management,Resource Management,ResourceOrgData,SectionId,bigint,,Vendor Management,Resource Management,ResourceOrgData,SectionId,bigint
+Vendor Management,Resource Management,ResourceOrgData,DepartmentId,bigint,,Vendor Management,Resource Management,ResourceOrgData,DepartmentId,bigint
+Vendor Management,Resource Management,ResourceOrgData,ValidityStart,datetime,,Vendor Management,Resource Management,ResourceOrgData,ValidityStart,datetime
+Vendor Management,Resource Management,ResourceOrgData,ValidityEnd,datetime,,Vendor Management,Resource Management,ResourceOrgData,ValidityEnd,datetime
+Vendor Management,Resource Management,ResourceOrgData,IsDeleted,bit,,Vendor Management,Resource Management,ResourceOrgData,IsDeleted,bit
+Vendor Management,Resource Management,ResourceOrgData,CreatedOn,datetimeoffset,,Vendor Management,Resource Management,ResourceOrgData,CreatedOn,datetimeoffset
+Vendor Management,Resource Management,ResourceOrgData,CreatedBy,nvarchar,,Vendor Management,Resource Management,ResourceOrgData,CreatedBy,nvarchar
+Vendor Management,Resource Management,ResourceOrgData,ModifiedOn,datetimeoffset,,Vendor Management,Resource Management,ResourceOrgData,ModifiedOn,datetimeoffset
+Vendor Management,Resource Management,ResourceOrgData,ModifiedBy,nvarchar,,Vendor Management,Resource Management,ResourceOrgData,ModifiedBy,nvarchar
+Vendor Management,Resource Management,ResourceOrgData,Version,timestamp,,Vendor Management,Resource Management,ResourceOrgData,Version,timestamp
+Vendor Management,Resource Management,vw_MasterEmployees,CompanyCode,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,CompanyCode,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,CompanyShortName,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,CompanyShortName,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,EmployeeNumber,bigint,,Vendor Management,Resource Management,vw_MasterEmployees,EmployeeNumber,bigint
+Vendor Management,Resource Management,vw_MasterEmployees,GlobalId,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,GlobalId,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,Firstname,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,Firstname,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,Lastname,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,Lastname,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,Fullname,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,Fullname,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,EmploymentStatus,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,EmploymentStatus,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,EmployeeGroup,varchar,,Vendor Management,Resource Management,vw_MasterEmployees,EmployeeGroup,varchar
+Vendor Management,Resource Management,vw_MasterEmployees,EmployeeSubGroup,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,EmployeeSubGroup,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,BusinessArea,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,BusinessArea,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,PersonnelArea,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,PersonnelArea,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,PersonnelSubArea,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,PersonnelSubArea,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,OrganizationalUnit,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,OrganizationalUnit,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,Name,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,Name,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,GenderKey,char,,Vendor Management,Resource Management,vw_MasterEmployees,GenderKey,char
+Vendor Management,Resource Management,vw_MasterEmployees,DateOfJoining,datetime2,,Vendor Management,Resource Management,vw_MasterEmployees,DateOfJoining,datetime2
+Vendor Management,Resource Management,vw_MasterEmployees,ContEnd,datetime2,,Vendor Management,Resource Management,vw_MasterEmployees,ContEnd,datetime2
+Vendor Management,Resource Management,vw_MasterEmployees,Salarylevel,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,Salarylevel,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,ActiveStatus,varchar,,Vendor Management,Resource Management,vw_MasterEmployees,ActiveStatus,varchar
+Vendor Management,Resource Management,vw_MasterEmployees,Position,varchar,,Vendor Management,Resource Management,vw_MasterEmployees,Position,varchar
+Vendor Management,Resource Management,vw_MasterEmployees,DateofLeaving,datetime2,,Vendor Management,Resource Management,vw_MasterEmployees,DateofLeaving,datetime2
+Vendor Management,Resource Management,vw_MasterEmployees,Ntid,varchar,,Vendor Management,Resource Management,vw_MasterEmployees,Ntid,varchar
+Vendor Management,Resource Management,vw_MasterEmployees,OrganizationName,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,OrganizationName,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,EmailOfficial,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,EmailOfficial,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,ActionType,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,ActionType,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,ReasonforAction,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,ReasonforAction,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,Changedby,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,Changedby,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,StartDate,datetime2,,Vendor Management,Resource Management,vw_MasterEmployees,StartDate,datetime2
+Vendor Management,Resource Management,vw_MasterEmployees,HRLocal,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,HRLocal,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,HRBPGlobalEmployeeID,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,HRBPGlobalEmployeeID,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,PersAdmin,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,PersAdmin,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,CountryofBirth,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,CountryofBirth,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,Nationality,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,Nationality,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,AddressType,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,AddressType,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,StreetandHouseNo,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,StreetandHouseNo,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,PostalCode,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,PostalCode,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,District,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,District,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,WardTown,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,WardTown,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,Region,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,Region,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,CountryKey,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,CountryKey,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,TelephoneNumber,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,TelephoneNumber,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,Email,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,Email,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,NameOfManager,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,NameOfManager,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,CreatedOn,datetimeoffset,,Vendor Management,Resource Management,vw_MasterEmployees,CreatedOn,datetimeoffset
+Vendor Management,Resource Management,vw_MasterEmployees,CreatedBy,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,CreatedBy,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,ModifiedOn,datetimeoffset,,Vendor Management,Resource Management,vw_MasterEmployees,ModifiedOn,datetimeoffset
+Vendor Management,Resource Management,vw_MasterEmployees,ModifiedBy,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,ModifiedBy,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,Id,uniqueidentifier,,Vendor Management,Resource Management,vw_MasterEmployees,Id,uniqueidentifier
+Vendor Management,Resource Management,vw_MasterEmployees,SectionId,bigint,,Vendor Management,Resource Management,vw_MasterEmployees,SectionId,bigint
+Vendor Management,Resource Management,vw_MasterEmployees,SectionName,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,SectionName,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,DepartmentId,bigint,,Vendor Management,Resource Management,vw_MasterEmployees,DepartmentId,bigint
+Vendor Management,Resource Management,vw_MasterEmployees,DepartmentName,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,DepartmentName,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,GroupId,bigint,,Vendor Management,Resource Management,vw_MasterEmployees,GroupId,bigint
+Vendor Management,Resource Management,vw_MasterEmployees,GroupName,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,GroupName,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,BUId,bigint,,Vendor Management,Resource Management,vw_MasterEmployees,BUId,bigint
+Vendor Management,Resource Management,vw_MasterEmployees,BUName,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,BUName,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,CostCenterId,uniqueidentifier,,Vendor Management,Resource Management,vw_MasterEmployees,CostCenterId,uniqueidentifier
+Vendor Management,Resource Management,vw_MasterEmployees,CostCenterCode,nvarchar,,Vendor Management,Resource Management,vw_MasterEmployees,CostCenterCode,nvarchar
+Vendor Management,Resource Management,vw_MasterEmployees,CompanyId,uniqueidentifier,,Vendor Management,Resource Management,vw_MasterEmployees,CompanyId,uniqueidentifier
+Vendor Management,Resource Management,vw_MasterEmployees,IsActive,bit,,Vendor Management,Resource Management,vw_MasterEmployees,IsActive,bit
+Vendor Management,Resource Management,OnboardingResourceRequest,Id,uniqueidentifier
+Vendor Management,Resource Management,OnboardingResourceRequest,OnboardingRequestId,varchar
+Vendor Management,Resource Management,OnboardingResourceRequest,StatusID,int
+Vendor Management,Resource Management,OnboardingResourceRequest,IsISPtrainingCompleted,bit
+Vendor Management,Resource Management,OnboardingResourceRequest,IsBGVcompletedandPassed,bit
+Vendor Management,Resource Management,OnboardingResourceRequest,IsConfirmDeclaration,bit
+Vendor Management,Resource Management,OnboardingResourceRequest,FirstApproverNtId,nvarchar
+Vendor Management,Resource Management,OnboardingResourceRequest,SecondApproverNtId,nvarchar
+Vendor Management,Resource Management,OnboardingResourceRequest,IsFirstLevelApproved,bit
+Vendor Management,Resource Management,OnboardingResourceRequest,CreatedOn,datetimeoffset
+Vendor Management,Resource Management,OnboardingResourceRequest,CreatedBy,nvarchar
+Vendor Management,Resource Management,OnboardingResourceRequest,ModifiedOn,datetimeoffset
+Vendor Management,Resource Management,OnboardingResourceRequest,ModifiedBy,nvarchar
+Vendor Management,Resource Management,OnboardingResourceRequest,IsDeleted,bit
+Vendor Management,Resource Management,OnboardingResourceRequest,BgvStatusID,int
+Vendor Management,Resource Management,OnboardingResourceRequest,GbCode,nvarchar
+Vendor Management,Resource Management,SOWJD_TP_TechnicalProposalDetails,Id,uniqueidentifier
+Vendor Management,Resource Management,SOWJD_TP_TechnicalProposalDetails,SowJdId,uniqueidentifier
+Vendor Management,Resource Management,SOWJD_TP_TechnicalProposalDetails,VendorId,uniqueidentifier
+Vendor Management,Resource Management,SOWJD_TP_TechnicalProposalDetails,StartDate,date
+Vendor Management,Resource Management,SOWJD_TP_TechnicalProposalDetails,EndDate,date
+Vendor Management,Resource Management,SOWJD_TP_TechnicalProposalDetails,CreatedDate,date
+Vendor Management,Resource Management,SOWJD_TP_TechnicalProposalDetails,CreatedBy,nvarchar
+Vendor Management,Resource Management,SOWJD_TP_TechnicalProposalDetails,Remarks,nvarchar
+Vendor Management,Resource Management,SOWJD_TP_TechnicalProposalDetails,Status,smallint
+Vendor Management,Resource Management,SOWJD_TP_TechnicalProposalDetails,RfqId,uniqueidentifier
+Vendor Management,Resource Management,SOWJD_TP_TechnicalProposalDetails,isSpocSignedOff,bit
+Vendor Management,Resource Management,SOWJD_TP_TechnicalProposalDetails,isVendorSignedOff,bit
+Vendor Management,Resource Management,SOWJD_TP_TechnicalProposalDetails,isDMSignedOff,bit
+Vendor Management,Resource Management,SOWJD_TP_TechnicalProposalDetails,modifiedOn,datetime
+Vendor Management,Resource Management,SOWJD_TP_TechnicalProposalDetails,modifiedBy,varchar
+Vendor Management,Resource Management,SOWJD_TP_TechnicalProposalDetails,TechnicalProposalNumber,varchar
+Vendor Management,Resource Management,SOWJD_TP_TechnicalProposalDetails,secspocActionBy,nvarchar
+Vendor Management,Resource Management,SOWJD_TP_TechnicalProposalDetails,DMActionBy,nvarchar
+Vendor Management,Resource Management,SOWJD_TP_TechnicalProposalDetails,InitateSignOff,bit
+Vendor Management,Resource Management,SOWJD_TP_TechnicalProposalDetails,creator,varchar
+Vendor Management,Resource Management,SOWJD_TP_TechnicalProposalDetails,RecordOwner,varchar
+Vendor Management,Resource Management,SOWJD_TP_TechnicalProposalDetails,ManagedCapacity,nvarchar
+Vendor Management,Resource Management,SOWJD_SRN,Id,uniqueidentifier
+Vendor Management,Resource Management,SOWJD_SRN,BillingPeriodId,uniqueidentifier
+Vendor Management,Resource Management,SOWJD_SRN,VendorId,uniqueidentifier
+Vendor Management,Resource Management,SOWJD_SRN,PurchaseOrderId,uniqueidentifier
+Vendor Management,Resource Management,SOWJD_SRN,SowJdId,uniqueidentifier
+Vendor Management,Resource Management,SOWJD_SRN,SRNType,varchar
+Vendor Management,Resource Management,SOWJD_SRN,CreatedOn,datetimeoffset
+Vendor Management,Resource Management,SOWJD_SRN,CreatedBy,nvarchar
+Vendor Management,Resource Management,SOWJD_SRN,ModifiedOn,datetimeoffset
+Vendor Management,Resource Management,SOWJD_SRN,ModifiedBy,nvarchar
+Vendor Management,Resource Management,SOWJD_SRN,IsDeleted,bit
+Vendor Management,Resource Management,SOWJD_SRN,Version,timestamp
+Vendor Management,Resource Management,SOWJD_SRN,DM,varchar
+Vendor Management,Resource Management,SOWJD_SRN,SRNNumber,varchar
+Vendor Management,Resource Management,SOWJD_SRN,TechnicalProposalId,uniqueidentifier
+Vendor Management,Resource Management,SOWJD_SRN,SRNStatusID,int
+Vendor Management,Resource Management,SOWJD_SRN,InvoiceId,varchar
+Vendor Management,Resource Management,SOWJD_SRN,SRNTypeID,int
+Vendor Management,Resource Management,SOWJD_SRN,SRNValue,decimal
+Vendor Management,Resource Management,SOWJD_SRN,TotalPMO,decimal
+Vendor Management,Resource Management,SOWJD_SRN,ApproverEmployeeNumber,bigint
+Vendor Management,Resource Management,SOWJD_SRN,RecordOwner,varchar
+Vendor Management,Resource Management,SOWJD_SRN,SectionSpoc,varchar
+Vendor Management,Resource Management,SOWJD_SRN,L1DeligationCount,int
+Vendor Management,Resource Management,SOWJD_SRN,L2DeligationCount,int
+Vendor Management,Resource Management,SOWJD_SRN,SectionSPOCApproval,varchar
+Vendor Management,Resource Management,SOWJD_SRN,ApprovalDM,varchar
+Vendor Management,Resource Management,SOWJD_SRN,ApprovalSecSpoc,varchar
+Vendor Management,Resource Management,SOWJD_SRN,SRNBillingYear,int
