@@ -1,0 +1,17 @@
+Domain Name,Sub Domain Name,Table/View Name,Column Name,Data Type
+Vendor Management,Onboarding,OnboardingResourceRequest,Id,uniqueidentifier
+Vendor Management,Onboarding,OnboardingResourceRequest,OnboardingRequestId,varchar
+Vendor Management,Onboarding,OnboardingResourceRequest,StatusID,int
+Vendor Management,Onboarding,OnboardingResourceRequest,IsISPtrainingCompleted,bit
+Vendor Management,Onboarding,OnboardingResourceRequest,IsBGVcompletedandPassed,bit
+Vendor Management,Onboarding,OnboardingResourceRequest,IsConfirmDeclaration,bit
+Vendor Management,Onboarding,OnboardingResourceRequest,FirstApproverNtId,nvarchar
+Vendor Management,Onboarding,OnboardingResourceRequest,SecondApproverNtId,nvarchar
+Vendor Management,Onboarding,OnboardingResourceRequest,IsFirstLevelApproved,bit
+Vendor Management,Onboarding,OnboardingResourceRequest,CreatedOn,datetimeoffset
+Vendor Management,Onboarding,OnboardingResourceRequest,CreatedBy,nvarchar
+Vendor Management,Onboarding,OnboardingResourceRequest,ModifiedOn,datetimeoffset
+Vendor Management,Onboarding,OnboardingResourceRequest,ModifiedBy,nvarchar
+Vendor Management,Onboarding,OnboardingResourceRequest,IsDeleted,bit
+Vendor Management,Onboarding,OnboardingResourceRequest,BgvStatusID,int
+Vendor Management,Onboarding,OnboardingResourceRequest,GbCode,nvarchar
