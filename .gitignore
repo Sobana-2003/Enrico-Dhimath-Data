@@ -132,3 +132,4 @@ pdf/
 docx/
 pandoc-3.7.0.2-windows-x86_64.msi
 *.csv
+.env
